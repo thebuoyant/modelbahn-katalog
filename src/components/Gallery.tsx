@@ -42,17 +42,15 @@ export default function Gallery() {
             key={item.id}
             variant="outlined"
             sx={{
-              overflow: "hidden", // damit das Bild oben abgerundet ist
-              borderRadius: 3, // schöne Rundung
+              overflow: "hidden", // verwendet jetzt den globalen 8px-Radius
             }}
           >
             <CardMedia
               component="img"
-              // Größeres Bild & gezieltes Cropping, um den schwarzen Balken oben auszublenden
               height="260"
               sx={{
                 objectFit: "cover",
-                objectPosition: "center 65%", // Fokus leicht nach unten -> top-Balken wird abgeschnitten
+                objectPosition: "center 65%",
               }}
               image={item.image}
               alt={item.title}
