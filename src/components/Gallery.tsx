@@ -38,12 +38,22 @@ export default function Gallery() {
     <Box className="content">
       <Box className="gallery">
         {items.map((item) => (
-          <Card key={item.id} variant="outlined">
+          <Card
+            key={item.id}
+            variant="outlined"
+            sx={{
+              overflow: "hidden", // damit das Bild oben abgerundet ist
+              borderRadius: 3, // schöne Rundung
+            }}
+          >
             <CardMedia
               component="img"
-              // höhere Bildfläche + sauberer Zuschnitt
-              height="220"
-              style={{ objectFit: "cover" }}
+              // Größeres Bild & gezieltes Cropping, um den schwarzen Balken oben auszublenden
+              height="260"
+              sx={{
+                objectFit: "cover",
+                objectPosition: "center 65%", // Fokus leicht nach unten -> top-Balken wird abgeschnitten
+              }}
               image={item.image}
               alt={item.title}
               loading="lazy"
@@ -65,6 +75,7 @@ export default function Gallery() {
           </Card>
         ))}
       </Box>
+
       {items.length === 0 && (
         <Typography variant="body1" sx={{ mt: 2 }}>
           Keine Ergebnisse.
