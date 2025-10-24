@@ -1,3 +1,3 @@
-# Modellbahn Katalog (4:3 & 16:9)
+# Modellbahn Katalog
 
-Bilder in beiden Seitenverhältnissen vorhanden. Umschaltbar in der Sidebar.
+https://modelbahn-katalog.vercel.app/
