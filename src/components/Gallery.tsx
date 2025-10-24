@@ -108,26 +108,31 @@ export default function Gallery() {
         </Typography>
       )}
 
-      {/* Lightbox-Dialog ohne Scrollen */}
+      {/* Lightbox-Dialog ohne Scrollen, Close-Icon oben rechts in DialogTitle */}
       <Dialog
         open={open}
         onClose={handleClose}
         fullWidth
         maxWidth="lg"
-        scroll="body" // falls überhaupt gescrollt werden müsste, scrollt der Body – nicht der Dialog
+        scroll="body"
         PaperProps={{
           sx: {
-            overflow: "hidden", // keine eigenen Scrollbars am Paper
-            bgcolor: "#000", // schöner Schwarzhintergrund
+            overflow: "hidden",
+            bgcolor: "#000",
           },
         }}
       >
-        <DialogTitle sx={{ pr: 6 }}>
+        <DialogTitle sx={{ pr: 6, color: "#fff", position: "relative" }}>
           {active?.title ?? "Bild"}
           <IconButton
             aria-label="schließen"
             onClick={handleClose}
-            sx={{ position: "absolute", right: 8, top: 8 }}
+            sx={{
+              position: "absolute",
+              right: 8,
+              top: 8,
+              color: "#fff",
+            }}
           >
             <CloseIcon />
           </IconButton>
@@ -137,7 +142,7 @@ export default function Gallery() {
           sx={{
             p: 2,
             bgcolor: "#000",
-            overflow: "hidden", // kein Scrolling in der Content-Fläche
+            overflow: "hidden", // kein Scrolling im Content
           }}
         >
           {/* Viewport-fitting Container */}
@@ -146,20 +151,17 @@ export default function Gallery() {
               display: "flex",
               alignItems: "center",
               justifyContent: "center",
-              // verfügbare Fläche innerhalb des Dialogs begrenzen
               maxWidth: "calc(100vw - 64px)",
-              maxHeight: "calc(100vh - 200px)", // Titel + Paddings abziehen
+              maxHeight: "calc(100vh - 200px)", // Puffer für Titel/Abstände
               mx: "auto",
             }}
           >
-            {/* Ratio-Box, die niemals die Maximalmaße sprengt */}
+            {/* Ratio-Box, begrenzt durch den Viewport */}
             <Box
               sx={{
                 position: "relative",
                 width: "100%",
-                // Ratio bleibt erhalten...
                 aspectRatio: aspect === "4:3" ? "4 / 3" : "16 / 9",
-                // ...aber wird durch die Maximalhöhe/-breite gekappt:
                 maxWidth: "calc(100vw - 64px)",
                 maxHeight: "calc(100vh - 200px)",
               }}
@@ -169,7 +171,6 @@ export default function Gallery() {
                   src={aspect === "4:3" ? active.image43 : active.image169}
                   alt={active.title}
                   fill
-                  // Im Dialog: "contain", damit das Bild komplett sichtbar ist (ohne Scroll)
                   style={{ objectFit: "contain" }}
                   sizes="100vw"
                   priority
@@ -178,7 +179,7 @@ export default function Gallery() {
             </Box>
           </Box>
 
-          {/* Optional: Metadaten unter dem Bild (kein Overflow durch flex-wrap) */}
+          {/* Optional: Meta unter dem Bild */}
           {active && (
             <Stack
               direction="row"
