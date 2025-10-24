@@ -5,10 +5,7 @@
     "category": "Loks",
     "title": "Diesel-Lokomotive",
     "description": "V100 / BR 210 / 216",
-    "image43": "/images/demo/4x3/img001.png",
-    "year": 1995,
-    "brand": "Fleischmann",
-    "roadNumber": "2784-83"
+    "image43": "/images/demo/4x3/img001.png"
   },
   {
     "id": "demo-002",
@@ -16,10 +13,7 @@
     "category": "Güterwagen",
     "title": "Güterwagen #002",
     "description": "Demo: Güterwagen, Spur N, KATO, Jahr 1963.",
-    "image43": "/images/demo/4x3/img002.png",
-    "year": 1963,
-    "brand": "KATO",
-    "roadNumber": "8151-55"
+    "image43": "/images/demo/4x3/img002.png"
   },
   {
     "id": "demo-003",
@@ -27,10 +21,7 @@
     "category": "Güterwagen",
     "title": "Güterwagen #003",
     "description": "Demo: Güterwagen, Spur N, Piko, Jahr 2013.",
-    "image43": "/images/demo/4x3/img003.png",
-    "year": 2013,
-    "brand": "Piko",
-    "roadNumber": "9454-50"
+    "image43": "/images/demo/4x3/img003.png"
   },
   {
     "id": "demo-004",
@@ -38,10 +29,7 @@
     "category": "Güterwagen",
     "title": "Güterwagen #004",
     "description": "Demo: Güterwagen, Spur N, Roco, Jahr 2019.",
-    "image43": "/images/demo/4x3/img004.png",
-    "year": 2019,
-    "brand": "Roco",
-    "roadNumber": "3224-68"
+    "image43": "/images/demo/4x3/img004.png"
   },
   {
     "id": "demo-005",
@@ -49,10 +37,7 @@
     "category": "Loks",
     "title": "Loks #005",
     "description": "Demo: Loks, Spur H0, Märklin, Jahr 2015.",
-    "image43": "/images/demo/4x3/img005.png",
-    "year": 2015,
-    "brand": "Märklin",
-    "roadNumber": "5524-27"
+    "image43": "/images/demo/4x3/img005.png"
   },
   {
     "id": "demo-006",
@@ -60,10 +45,7 @@
     "category": "Sonstiges",
     "title": "Sonstiges #006",
     "description": "Demo: Sonstiges, Spur H0, KATO, Jahr 1975.",
-    "image43": "/images/demo/4x3/img006.png",
-    "year": 1975,
-    "brand": "KATO",
-    "roadNumber": "5558-60"
+    "image43": "/images/demo/4x3/img006.png"
   },
   {
     "id": "demo-007",
@@ -71,10 +53,7 @@
     "category": "Güterwagen",
     "title": "Güterwagen #007",
     "description": "Demo: Güterwagen, Spur H0, KATO, Jahr 1971.",
-    "image43": "/images/demo/4x3/img007.png",
-    "year": 1971,
-    "brand": "KATO",
-    "roadNumber": "5495-36"
+    "image43": "/images/demo/4x3/img007.png"
   },
   {
     "id": "demo-008",
@@ -82,10 +61,7 @@
     "category": "Güterwagen",
     "title": "Güterwagen #008",
     "description": "Demo: Güterwagen, Spur N, Piko, Jahr 1980.",
-    "image43": "/images/demo/4x3/img008.png",
-    "year": 1980,
-    "brand": "Piko",
-    "roadNumber": "9429-95"
+    "image43": "/images/demo/4x3/img008.png"
   },
   {
     "id": "demo-009",
@@ -93,10 +69,7 @@
     "category": "Sonstiges",
     "title": "Sonstiges #009",
     "description": "Demo: Sonstiges, Spur N, Fleischmann, Jahr 1982.",
-    "image43": "/images/demo/4x3/img009.png",
-    "year": 1982,
-    "brand": "Fleischmann",
-    "roadNumber": "4838-98"
+    "image43": "/images/demo/4x3/img009.png"
   },
   {
     "id": "demo-010",
@@ -104,10 +77,7 @@
     "category": "Loks",
     "title": "Loks #010",
     "description": "Demo: Loks, Spur N, Piko, Jahr 2005.",
-    "image43": "/images/demo/4x3/img010.png",
-    "year": 2005,
-    "brand": "Piko",
-    "roadNumber": "5369-80"
+    "image43": "/images/demo/4x3/img010.png"
   },
   {
     "id": "demo-011",
@@ -115,10 +85,7 @@
     "category": "Güterwagen",
     "title": "Güterwagen #011",
     "description": "Demo: Güterwagen, Spur N, Fleischmann, Jahr 1977.",
-    "image43": "/images/demo/4x3/img011.png",
-    "year": 1977,
-    "brand": "Fleischmann",
-    "roadNumber": "7515-79"
+    "image43": "/images/demo/4x3/img011.png"
   },
   {
     "id": "demo-012",
@@ -126,10 +93,7 @@
     "category": "Personenwagen",
     "title": "Personenwagen #012",
     "description": "Demo: Personenwagen, Spur H0, KATO, Jahr 2001.",
-    "image43": "/images/demo/4x3/img012.png",
-    "year": 2001,
-    "brand": "KATO",
-    "roadNumber": "1734-24"
+    "image43": "/images/demo/4x3/img012.png"
   },
   {
     "id": "demo-013",
@@ -137,10 +101,7 @@
     "category": "Personenwagen",
     "title": "Personenwagen #013",
     "description": "Demo: Personenwagen, Spur H0, Märklin, Jahr 1996.",
-    "image43": "/images/demo/4x3/img013.png",
-    "year": 1996,
-    "brand": "Märklin",
-    "roadNumber": "4946-53"
+    "image43": "/images/demo/4x3/img013.png"
   },
   {
     "id": "demo-014",
@@ -148,10 +109,7 @@
     "category": "Güterwagen",
     "title": "Güterwagen #014",
     "description": "Demo: Güterwagen, Spur N, Piko, Jahr 2015.",
-    "image43": "/images/demo/4x3/img014.png",
-    "year": 2015,
-    "brand": "Piko",
-    "roadNumber": "2316-67"
+    "image43": "/images/demo/4x3/img014.png"
   },
   {
     "id": "demo-015",
@@ -159,10 +117,7 @@
     "category": "Sonstiges",
     "title": "Sonstiges #015",
     "description": "Demo: Sonstiges, Spur N, Märklin, Jahr 1984.",
-    "image43": "/images/demo/4x3/img015.png",
-    "year": 1984,
-    "brand": "Märklin",
-    "roadNumber": "5888-21"
+    "image43": "/images/demo/4x3/img015.png"
   },
   {
     "id": "demo-016",
@@ -170,10 +125,7 @@
     "category": "Loks",
     "title": "Loks #016",
     "description": "Demo: Loks, Spur N, Piko, Jahr 1976.",
-    "image43": "/images/demo/4x3/img016.png",
-    "year": 1976,
-    "brand": "Piko",
-    "roadNumber": "9065-77"
+    "image43": "/images/demo/4x3/img016.png"
   },
   {
     "id": "demo-017",
@@ -181,10 +133,7 @@
     "category": "Loks",
     "title": "Loks #017",
     "description": "Demo: Loks, Spur N, TRIX, Jahr 1962.",
-    "image43": "/images/demo/4x3/img017.png",
-    "year": 1962,
-    "brand": "TRIX",
-    "roadNumber": "2411-35"
+    "image43": "/images/demo/4x3/img017.png"
   },
   {
     "id": "demo-018",
@@ -192,10 +141,7 @@
     "category": "Loks",
     "title": "Loks #018",
     "description": "Demo: Loks, Spur N, TRIX, Jahr 2011.",
-    "image43": "/images/demo/4x3/img018.png",
-    "year": 2011,
-    "brand": "TRIX",
-    "roadNumber": "4453-74"
+    "image43": "/images/demo/4x3/img018.png"
   },
   {
     "id": "demo-019",
@@ -203,10 +149,7 @@
     "category": "Loks",
     "title": "Loks #019",
     "description": "Demo: Loks, Spur H0, Roco, Jahr 2015.",
-    "image43": "/images/demo/4x3/img019.png",
-    "year": 2015,
-    "brand": "Roco",
-    "roadNumber": "6784-16"
+    "image43": "/images/demo/4x3/img019.png"
   },
   {
     "id": "demo-020",
@@ -214,10 +157,7 @@
     "category": "Loks",
     "title": "Loks #020",
     "description": "Demo: Loks, Spur H0, Piko, Jahr 1991.",
-    "image43": "/images/demo/4x3/img020.png",
-    "year": 1991,
-    "brand": "Piko",
-    "roadNumber": "5089-57"
+    "image43": "/images/demo/4x3/img020.png"
   },
   {
     "id": "demo-021",
@@ -225,10 +165,7 @@
     "category": "Loks",
     "title": "Loks #021",
     "description": "Demo: Loks, Spur N, TRIX, Jahr 1993.",
-    "image43": "/images/demo/4x3/img021.png",
-    "year": 1993,
-    "brand": "TRIX",
-    "roadNumber": "5379-68"
+    "image43": "/images/demo/4x3/img021.png"
   },
   {
     "id": "demo-022",
@@ -236,10 +173,7 @@
     "category": "Loks",
     "title": "Loks #022",
     "description": "Demo: Loks, Spur H0, Märklin, Jahr 1989.",
-    "image43": "/images/demo/4x3/img022.png",
-    "year": 1989,
-    "brand": "Märklin",
-    "roadNumber": "7523-19"
+    "image43": "/images/demo/4x3/img022.png"
   },
   {
     "id": "demo-023",
@@ -247,10 +181,7 @@
     "category": "Güterwagen",
     "title": "Güterwagen #023",
     "description": "Demo: Güterwagen, Spur N, Märklin, Jahr 2022.",
-    "image43": "/images/demo/4x3/img023.png",
-    "year": 2022,
-    "brand": "Märklin",
-    "roadNumber": "2307-30"
+    "image43": "/images/demo/4x3/img023.png"
   },
   {
     "id": "demo-024",
@@ -258,10 +189,7 @@
     "category": "Loks",
     "title": "Loks #024",
     "description": "Demo: Loks, Spur N, Piko, Jahr 1990.",
-    "image43": "/images/demo/4x3/img024.png",
-    "year": 1990,
-    "brand": "Piko",
-    "roadNumber": "4053-96"
+    "image43": "/images/demo/4x3/img024.png"
   },
   {
     "id": "demo-025",
@@ -269,10 +197,7 @@
     "category": "Sonstiges",
     "title": "Sonstiges #025",
     "description": "Demo: Sonstiges, Spur N, Roco, Jahr 2010.",
-    "image43": "/images/demo/4x3/img025.png",
-    "year": 2010,
-    "brand": "Roco",
-    "roadNumber": "6082-70"
+    "image43": "/images/demo/4x3/img025.png"
   },
   {
     "id": "demo-026",
@@ -280,10 +205,7 @@
     "category": "Sonstiges",
     "title": "Sonstiges #026",
     "description": "Demo: Sonstiges, Spur H0, KATO, Jahr 1998.",
-    "image43": "/images/demo/4x3/img026.png",
-    "year": 1998,
-    "brand": "KATO",
-    "roadNumber": "4626-21"
+    "image43": "/images/demo/4x3/img026.png"
   },
   {
     "id": "demo-027",
@@ -291,10 +213,7 @@
     "category": "Sonstiges",
     "title": "Sonstiges #027",
     "description": "Demo: Sonstiges, Spur N, Piko, Jahr 2023.",
-    "image43": "/images/demo/4x3/img027.png",
-    "year": 2023,
-    "brand": "Piko",
-    "roadNumber": "6956-92"
+    "image43": "/images/demo/4x3/img027.png"
   },
   {
     "id": "demo-028",
@@ -302,10 +221,7 @@
     "category": "Loks",
     "title": "Loks #028",
     "description": "Demo: Loks, Spur H0, Piko, Jahr 1975.",
-    "image43": "/images/demo/4x3/img028.png",
-    "year": 1975,
-    "brand": "Piko",
-    "roadNumber": "3227-66"
+    "image43": "/images/demo/4x3/img028.png"
   },
   {
     "id": "demo-029",
@@ -313,10 +229,7 @@
     "category": "Personenwagen",
     "title": "Personenwagen #029",
     "description": "Demo: Personenwagen, Spur H0, Piko, Jahr 2024.",
-    "image43": "/images/demo/4x3/img029.png",
-    "year": 2024,
-    "brand": "Piko",
-    "roadNumber": "5006-55"
+    "image43": "/images/demo/4x3/img029.png"
   },
   {
     "id": "demo-030",
@@ -324,10 +237,7 @@
     "category": "Personenwagen",
     "title": "Personenwagen #030",
     "description": "Demo: Personenwagen, Spur H0, Piko, Jahr 1993.",
-    "image43": "/images/demo/4x3/img030.png",
-    "year": 1993,
-    "brand": "Piko",
-    "roadNumber": "5662-89"
+    "image43": "/images/demo/4x3/img030.png"
   },
   {
     "id": "demo-031",
@@ -335,10 +245,7 @@
     "category": "Personenwagen",
     "title": "Personenwagen #031",
     "description": "Demo: Personenwagen, Spur N, TRIX, Jahr 2025.",
-    "image43": "/images/demo/4x3/img031.png",
-    "year": 2025,
-    "brand": "TRIX",
-    "roadNumber": "9090-14"
+    "image43": "/images/demo/4x3/img031.png"
   },
   {
     "id": "demo-032",
@@ -346,10 +253,7 @@
     "category": "Personenwagen",
     "title": "Personenwagen #032",
     "description": "Demo: Personenwagen, Spur H0, Fleischmann, Jahr 2015.",
-    "image43": "/images/demo/4x3/img032.png",
-    "year": 2015,
-    "brand": "Fleischmann",
-    "roadNumber": "9004-39"
+    "image43": "/images/demo/4x3/img032.png"
   },
   {
     "id": "demo-033",
@@ -357,10 +261,7 @@
     "category": "Loks",
     "title": "Loks #033",
     "description": "Demo: Loks, Spur N, Fleischmann, Jahr 1976.",
-    "image43": "/images/demo/4x3/img033.png",
-    "year": 1976,
-    "brand": "Fleischmann",
-    "roadNumber": "4406-89"
+    "image43": "/images/demo/4x3/img033.png"
   },
   {
     "id": "demo-034",
@@ -368,10 +269,7 @@
     "category": "Sonstiges",
     "title": "Sonstiges #034",
     "description": "Demo: Sonstiges, Spur H0, KATO, Jahr 2023.",
-    "image43": "/images/demo/4x3/img034.png",
-    "year": 2023,
-    "brand": "KATO",
-    "roadNumber": "2609-20"
+    "image43": "/images/demo/4x3/img034.png"
   },
   {
     "id": "demo-035",
@@ -379,10 +277,7 @@
     "category": "Loks",
     "title": "Loks #035",
     "description": "Demo: Loks, Spur N, Fleischmann, Jahr 1988.",
-    "image43": "/images/demo/4x3/img035.png",
-    "year": 1988,
-    "brand": "Fleischmann",
-    "roadNumber": "9460-47"
+    "image43": "/images/demo/4x3/img035.png"
   },
   {
     "id": "demo-036",
@@ -390,10 +285,7 @@
     "category": "Loks",
     "title": "Loks #036",
     "description": "Demo: Loks, Spur N, Märklin, Jahr 2014.",
-    "image43": "/images/demo/4x3/img036.png",
-    "year": 2014,
-    "brand": "Märklin",
-    "roadNumber": "2550-94"
+    "image43": "/images/demo/4x3/img036.png"
   },
   {
     "id": "demo-037",
@@ -401,10 +293,7 @@
     "category": "Personenwagen",
     "title": "Personenwagen #037",
     "description": "Demo: Personenwagen, Spur H0, KATO, Jahr 2012.",
-    "image43": "/images/demo/4x3/img037.png",
-    "year": 2012,
-    "brand": "KATO",
-    "roadNumber": "3498-77"
+    "image43": "/images/demo/4x3/img037.png"
   },
   {
     "id": "demo-038",
@@ -412,10 +301,7 @@
     "category": "Sonstiges",
     "title": "Sonstiges #038",
     "description": "Demo: Sonstiges, Spur N, Piko, Jahr 1984.",
-    "image43": "/images/demo/4x3/img038.png",
-    "year": 1984,
-    "brand": "Piko",
-    "roadNumber": "2204-29"
+    "image43": "/images/demo/4x3/img038.png"
   },
   {
     "id": "demo-039",
@@ -423,10 +309,7 @@
     "category": "Güterwagen",
     "title": "Güterwagen #039",
     "description": "Demo: Güterwagen, Spur N, Roco, Jahr 1986.",
-    "image43": "/images/demo/4x3/img039.png",
-    "year": 1986,
-    "brand": "Roco",
-    "roadNumber": "3018-86"
+    "image43": "/images/demo/4x3/img039.png"
   },
   {
     "id": "demo-040",
@@ -434,10 +317,7 @@
     "category": "Güterwagen",
     "title": "Güterwagen #040",
     "description": "Demo: Güterwagen, Spur H0, Roco, Jahr 1974.",
-    "image43": "/images/demo/4x3/img040.png",
-    "year": 1974,
-    "brand": "Roco",
-    "roadNumber": "6546-83"
+    "image43": "/images/demo/4x3/img040.png"
   },
   {
     "id": "demo-041",
@@ -445,10 +325,7 @@
     "category": "Sonstiges",
     "title": "Sonstiges #041",
     "description": "Demo: Sonstiges, Spur H0, KATO, Jahr 2008.",
-    "image43": "/images/demo/4x3/img041.png",
-    "year": 2008,
-    "brand": "KATO",
-    "roadNumber": "6496-63"
+    "image43": "/images/demo/4x3/img041.png"
   },
   {
     "id": "demo-042",
@@ -456,10 +333,7 @@
     "category": "Personenwagen",
     "title": "Personenwagen #042",
     "description": "Demo: Personenwagen, Spur N, Roco, Jahr 1964.",
-    "image43": "/images/demo/4x3/img042.png",
-    "year": 1964,
-    "brand": "Roco",
-    "roadNumber": "9438-35"
+    "image43": "/images/demo/4x3/img042.png"
   },
   {
     "id": "demo-043",
@@ -467,10 +341,7 @@
     "category": "Personenwagen",
     "title": "Personenwagen #043",
     "description": "Demo: Personenwagen, Spur N, Roco, Jahr 1973.",
-    "image43": "/images/demo/4x3/img043.png",
-    "year": 1973,
-    "brand": "Roco",
-    "roadNumber": "8333-63"
+    "image43": "/images/demo/4x3/img043.png"
   },
   {
     "id": "demo-044",
@@ -478,10 +349,7 @@
     "category": "Güterwagen",
     "title": "Güterwagen #044",
     "description": "Demo: Güterwagen, Spur H0, Roco, Jahr 2001.",
-    "image43": "/images/demo/4x3/img044.png",
-    "year": 2001,
-    "brand": "Roco",
-    "roadNumber": "9667-22"
+    "image43": "/images/demo/4x3/img044.png"
   },
   {
     "id": "demo-045",
@@ -489,10 +357,7 @@
     "category": "Loks",
     "title": "Loks #045",
     "description": "Demo: Loks, Spur N, Piko, Jahr 1991.",
-    "image43": "/images/demo/4x3/img045.png",
-    "year": 1991,
-    "brand": "Piko",
-    "roadNumber": "3308-96"
+    "image43": "/images/demo/4x3/img045.png"
   },
   {
     "id": "demo-046",
@@ -500,10 +365,7 @@
     "category": "Personenwagen",
     "title": "Personenwagen #046",
     "description": "Demo: Personenwagen, Spur N, Roco, Jahr 1963.",
-    "image43": "/images/demo/4x3/img046.png",
-    "year": 1963,
-    "brand": "Roco",
-    "roadNumber": "1008-12"
+    "image43": "/images/demo/4x3/img046.png"
   },
   {
     "id": "demo-047",
@@ -511,10 +373,7 @@
     "category": "Sonstiges",
     "title": "Sonstiges #047",
     "description": "Demo: Sonstiges, Spur H0, Roco, Jahr 2008.",
-    "image43": "/images/demo/4x3/img047.png",
-    "year": 2008,
-    "brand": "Roco",
-    "roadNumber": "2667-75"
+    "image43": "/images/demo/4x3/img047.png"
   },
   {
     "id": "demo-048",
@@ -522,10 +381,7 @@
     "category": "Güterwagen",
     "title": "Güterwagen #048",
     "description": "Demo: Güterwagen, Spur H0, Märklin, Jahr 2018.",
-    "image43": "/images/demo/4x3/img048.png",
-    "year": 2018,
-    "brand": "Märklin",
-    "roadNumber": "4104-92"
+    "image43": "/images/demo/4x3/img048.png"
   },
   {
     "id": "demo-049",
@@ -533,10 +389,7 @@
     "category": "Loks",
     "title": "Loks #049",
     "description": "Demo: Loks, Spur H0, TRIX, Jahr 1967.",
-    "image43": "/images/demo/4x3/img049.png",
-    "year": 1967,
-    "brand": "TRIX",
-    "roadNumber": "2856-12"
+    "image43": "/images/demo/4x3/img049.png"
   },
   {
     "id": "demo-050",
@@ -544,10 +397,7 @@
     "category": "Loks",
     "title": "Loks #050",
     "description": "Demo: Loks, Spur N, Roco, Jahr 2016.",
-    "image43": "/images/demo/4x3/img050.png",
-    "year": 2016,
-    "brand": "Roco",
-    "roadNumber": "3272-86"
+    "image43": "/images/demo/4x3/img050.png"
   },
   {
     "id": "demo-051",
@@ -555,10 +405,7 @@
     "category": "Loks",
     "title": "Loks #051",
     "description": "Demo: Loks, Spur H0, Märklin, Jahr 1992.",
-    "image43": "/images/demo/4x3/img051.png",
-    "year": 1992,
-    "brand": "Märklin",
-    "roadNumber": "7794-41"
+    "image43": "/images/demo/4x3/img051.png"
   },
   {
     "id": "demo-052",
@@ -566,10 +413,7 @@
     "category": "Personenwagen",
     "title": "Personenwagen #052",
     "description": "Demo: Personenwagen, Spur N, Märklin, Jahr 1964.",
-    "image43": "/images/demo/4x3/img052.png",
-    "year": 1964,
-    "brand": "Märklin",
-    "roadNumber": "7594-89"
+    "image43": "/images/demo/4x3/img052.png"
   },
   {
     "id": "demo-053",
@@ -577,10 +421,7 @@
     "category": "Sonstiges",
     "title": "Sonstiges #053",
     "description": "Demo: Sonstiges, Spur N, Roco, Jahr 1970.",
-    "image43": "/images/demo/4x3/img053.png",
-    "year": 1970,
-    "brand": "Roco",
-    "roadNumber": "8912-56"
+    "image43": "/images/demo/4x3/img053.png"
   },
   {
     "id": "demo-054",
@@ -588,10 +429,7 @@
     "category": "Loks",
     "title": "Loks #054",
     "description": "Demo: Loks, Spur H0, Fleischmann, Jahr 1995.",
-    "image43": "/images/demo/4x3/img054.png",
-    "year": 1995,
-    "brand": "Fleischmann",
-    "roadNumber": "8032-31"
+    "image43": "/images/demo/4x3/img054.png"
   },
   {
     "id": "demo-055",
@@ -599,10 +437,7 @@
     "category": "Personenwagen",
     "title": "Personenwagen #055",
     "description": "Demo: Personenwagen, Spur H0, Piko, Jahr 2001.",
-    "image43": "/images/demo/4x3/img055.png",
-    "year": 2001,
-    "brand": "Piko",
-    "roadNumber": "7724-29"
+    "image43": "/images/demo/4x3/img055.png"
   },
   {
     "id": "demo-056",
@@ -610,10 +445,7 @@
     "category": "Güterwagen",
     "title": "Güterwagen #056",
     "description": "Demo: Güterwagen, Spur H0, Märklin, Jahr 1992.",
-    "image43": "/images/demo/4x3/img056.png",
-    "year": 1992,
-    "brand": "Märklin",
-    "roadNumber": "1080-48"
+    "image43": "/images/demo/4x3/img056.png"
   },
   {
     "id": "demo-057",
@@ -621,10 +453,7 @@
     "category": "Personenwagen",
     "title": "Personenwagen #057",
     "description": "Demo: Personenwagen, Spur H0, Piko, Jahr 2003.",
-    "image43": "/images/demo/4x3/img057.png",
-    "year": 2003,
-    "brand": "Piko",
-    "roadNumber": "9560-80"
+    "image43": "/images/demo/4x3/img057.png"
   },
   {
     "id": "demo-058",
@@ -632,10 +461,7 @@
     "category": "Sonstiges",
     "title": "Sonstiges #058",
     "description": "Demo: Sonstiges, Spur N, TRIX, Jahr 1973.",
-    "image43": "/images/demo/4x3/img058.png",
-    "year": 1973,
-    "brand": "TRIX",
-    "roadNumber": "1183-65"
+    "image43": "/images/demo/4x3/img058.png"
   },
   {
     "id": "demo-059",
@@ -643,10 +469,7 @@
     "category": "Sonstiges",
     "title": "Sonstiges #059",
     "description": "Demo: Sonstiges, Spur N, Roco, Jahr 1996.",
-    "image43": "/images/demo/4x3/img059.png",
-    "year": 1996,
-    "brand": "Roco",
-    "roadNumber": "8551-93"
+    "image43": "/images/demo/4x3/img059.png"
   },
   {
     "id": "demo-060",
@@ -654,9 +477,6 @@
     "category": "Sonstiges",
     "title": "Sonstiges #060",
     "description": "Demo: Sonstiges, Spur N, Roco, Jahr 2017.",
-    "image43": "/images/demo/4x3/img060.png",
-    "year": 2017,
-    "brand": "Roco",
-    "roadNumber": "4249-81"
+    "image43": "/images/demo/4x3/img060.png"
   }
 ]

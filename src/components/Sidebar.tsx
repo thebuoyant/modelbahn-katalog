@@ -3,7 +3,6 @@ import * as React from "react";
 import Box from "@mui/material/Box";
 import Divider from "@mui/material/Divider";
 import Typography from "@mui/material/Typography";
-import Button from "@mui/material/Button";
 import FormControl from "@mui/material/FormControl";
 import FormLabel from "@mui/material/FormLabel";
 import RadioGroup from "@mui/material/RadioGroup";
@@ -25,7 +24,6 @@ const isCategoryFilter = (v: string): v is CategoryFilter =>
 export default function Sidebar() {
   const categoryFilter = useCatalogStore((s) => s.categoryFilter);
   const setCategoryFilter = useCatalogStore((s) => s.setCategoryFilter);
-  const reset = useCatalogStore((s) => s.reset);
 
   const categories: CategoryFilter[] = [
     "Alle",
@@ -58,11 +56,11 @@ export default function Sidebar() {
         </RadioGroup>
       </FormControl>
 
-      <Divider />
+      {/* <Divider />
 
       <Button variant="outlined" onClick={() => reset()}>
         Filter zurücksetzen
-      </Button>
+      </Button> */}
     </Box>
   );
 }
