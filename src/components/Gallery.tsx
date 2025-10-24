@@ -84,18 +84,40 @@ export default function Gallery() {
               </Box>
 
               <CardContent>
-                <Typography variant="subtitle1" fontWeight={600} gutterBottom>
-                  {item.title}
-                </Typography>
-                <Typography variant="body2" color="text.secondary" gutterBottom>
+                <div className="title" style={{ display: "flex" }}>
+                  <Typography
+                    variant="subtitle1"
+                    fontWeight={600}
+                    gutterBottom
+                    style={{ marginRight: "16px" }}
+                  >
+                    {item.title}
+                  </Typography>
+                  <Chip
+                    label={item.scale}
+                    size="small"
+                    color="primary"
+                    style={{
+                      position: "relative",
+                      top: "3px",
+                      marginRight: "4px",
+                      minWidth: "50px",
+                    }}
+                  />
+                  <Chip
+                    label={item.category}
+                    size="small"
+                    style={{
+                      position: "relative",
+                      top: "3px",
+                      marginRight: "4px",
+                      minWidth: "50px",
+                    }}
+                  />
+                </div>
+                <Typography variant="body2" color="text.secondary">
                   {item.description ?? "—"}
                 </Typography>
-                <Stack direction="row" spacing={1} sx={{ flexWrap: "wrap" }}>
-                  <Chip label={item.scale} size="small" />
-                  <Chip label={item.category} size="small" />
-                  {item.brand && <Chip label={item.brand} size="small" />}
-                  {item.year && <Chip label={item.year} size="small" />}
-                </Stack>
               </CardContent>
             </Card>
           );
@@ -188,15 +210,6 @@ export default function Gallery() {
             >
               <Chip label={active.scale} size="small" color="default" />
               <Chip label={active.category} size="small" color="default" />
-              {active.brand && (
-                <Chip label={active.brand} size="small" color="default" />
-              )}
-              {active.year && (
-                <Chip label={active.year} size="small" color="default" />
-              )}
-              {active.roadNumber && (
-                <Chip label={active.roadNumber} size="small" color="default" />
-              )}
             </Stack>
           )}
         </DialogContent>
