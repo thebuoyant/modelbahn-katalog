@@ -28,3 +28,10 @@ Antrieb	Motor im Tender mit Kardan auf die Lokachsen oder Direktantrieb
 Hersteller (vermutlich)	Roco (feine Detaillierung), Fleischmann (klassische DB 39), oder Märklin (Metallgehäuse, AC-Betrieb)
 Epoche (Modell)	III – DB-Zeit mit altem DB-Keks
 Farbschema	Schwarz/Rot, vorbildgerecht gemäß DB-Standard
+
+🧾 Kurzbeschreibung (für Homepage oder Sammlungsseite)
+
+Dampflokomotive DB Baureihe 39 046 (preußische P 10)
+Vorbildgerechtes Modell einer Schnellzug-Schlepptenderlokomotive der Deutschen Bundesbahn, Epoche III.
+Die elegante, kräftige Dreizylinderlok überzeugt durch fein ausgeführte Kessel-, Gestänge- und Tenderdetails sowie eine authentische Farbgebung in Schwarz/Rot.
+Vorbildgetreu für den Einsatz vor Schnell- und Personenzügen auf Hauptstrecken mit mittleren Steigungen.
