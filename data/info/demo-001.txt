@@ -1,0 +1,34 @@
+Merkmal	Beschreibung
+Baureihe (Vorbild)	V 100 (spätere BR 211 / 212)
+Bauart	Dieselhydraulische Streckenlokomotive
+Hersteller (Vorbild)	MaK (Maschinenbau Kiel), Deutz, Jung, Henschel, Krauss-Maffei
+Baujahre (Vorbild)	ca. 1958–1966
+Leistung	ca. 1.100–1.350 PS
+Einsatzgebiet	Leichte bis mittlere Personenzug- und Güterzüge, Nebenstrecken, Rangierdienst
+Epoche (DB)	Epoche III–IV (1956–1993, je nach Lackierung)
+Lackierung	Purpurrot (RAL 3004) mit hellem Zierstreifen — typisch für Epoche IV (70er/80er Jahre)
+
+🧩 Zum Modell
+
+Die Machart und Proportionen sprechen für H0 (1:87) und ein industrielles Serienmodell.
+Solche Loks wurden hergestellt von:
+
+Roco → sehr feine Detaillierung, purpurrote DB-Versionen der BR 211/212
+
+Fleischmann → robustere Ausführung, teilweise mit Schwungmasse
+
+Piko → solide Kunststoffgehäuse, oft günstiger Preis
+
+Märklin → Metallgehäuse, AC-System, Artikelnummern im Bereich 30xx
+
+Da keine Herstellerprägung auf dem Foto zu sehen ist, kann ich dir sagen:
+👉 Auf der Unterseite ist meist ein kleines, eingeprägtes Logo oder eine Artikelnummer – wenn du mir davon ein Foto schickst, kann ich den exakten Hersteller und Artikelcode nennen.
+
+🔎 Zusammenfassung
+Kategorie	Daten
+Modelltyp	DB V100 144 (BR 211/212)
+Epoche	IV
+Farbe	Purpurrot / Elfenbein
+Maßstab (vermutet)	H0 (1:87)
+Bahngesellschaft	Deutsche Bundesbahn
+Hersteller (vermutet)	Roco / Fleischmann / Märklin
