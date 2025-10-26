@@ -1,0 +1,29 @@
+🚂 Detaillierte Infos zum Modell
+
+Bezeichnung: V 100 144
+
+Vorbild: Dieselhyrdraulische Lokomotive der Deutschen Bundesbahn (DB), Baureihe V 100.10 (ab 1968 Baureihe 211).
+
+Epoche: III (späte 1950er – 1968)
+
+Farbgebung: Purpurrot (RAL 3004) mit beiger Zierlinie – typisch für DB-Dieselloks der frühen Jahre.
+
+Achsfolge: B’B’ (zwei zweiachsige Drehgestelle).
+
+Leistung: ca. 1 100 PS (810 kW)
+
+Antrieb: Dieselhydraulisch – 12-Zylinder-Maybach-Motor (z. B. MD 650), Voith-Getriebe.
+
+Höchstgeschwindigkeit: 100 km/h
+
+Länge über Puffer: ca. 12,1 m
+
+Dienstmasse: ca. 62 t
+
+Baujahre: 1958 – 1963
+
+Hersteller: MaK, Henschel, Deutz, Krupp u. a.
+
+Verwendung: Universallok für Nebenbahnen, Rangierdienste und leichte Personen-/Güterzüge.
+
+Nachfolger: Die stärkere Variante V 100.20 = Baureihe 212 (ab 1962).

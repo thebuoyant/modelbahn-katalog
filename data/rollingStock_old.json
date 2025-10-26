@@ -1,5 +1,14 @@
 [
   {
+    "id": "#0001",
+    "scale": "H0",
+    "category": "Loks",
+    "title": "#0001 Dampf-Lokomotive",
+    "description": "DB 89 003 (Epoche III)",
+    "image43": "/images/demo/4x3/#0001.png",
+    "areaOfApplication": "Rangierdienst, kurze Güterzüge, Anschlussbahnen"
+  },
+  {
     "id": "demo-001",
     "scale": "H0",
     "category": "Loks",
@@ -33,7 +42,7 @@
     "title": "#004 Dampf-Lokomotive",
     "description": "DB 89 003 (Epoche III)",
     "image43": "/images/demo/4x3/img004.png",
-    "areaOfApplication": "Solche Baureihe-89-Maschinen waren Rangier- und Nebenbahn-Loks – kurze Güterzüge, Werks- oder Bahnhofsverschub, gelegentlich auch Übergaben und kurze Personenzüge. Sie zeichneten sich durch hohes Anfahrmoment bei niedrigen Geschwindigkeiten und enge Kurvengängigkeit aus."
+    "areaOfApplication": "Rangierdienst, kurze Güterzüge, Anschlussbahnen"
   },
   {
     "id": "demo-005",

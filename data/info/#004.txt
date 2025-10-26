@@ -1,0 +1,13 @@
+Infos zum dargestellten Modell (so detailliert wie möglich)
+
+Vorbild: Kleine deutsche Tenderdampflok der Baureihe 89 (0-6-0T / C-n2t). Die Beschriftung am Führerhaus zeigt „DB 89 003“, also eine Lok der Deutschen Bundesbahn, Epoche III (ca. 1950er–1960er).
+
+Bauartmerkmale: Drei gekuppelte Radsätze (kein Vor-/Nachläufer), seitliche Wasserkästen, außenliegende Zylinder mit Heusinger-/Walschaerts-Steuerung, hoher Schornstein, zwei Dampfdom-/Sanddom-Aufsätze auf dem Kessel, seitlich montierte Luftpumpe am Rauchkammerkasten. Das Fahrwerk/der Rahmen ist rot, der Kessel und Aufbau schwarz – das klassische DB-Farbkleid für Dampfloks in dieser Epoche.
+
+Einsatz beim Vorbild: Solche Baureihe-89-Maschinen waren Rangier- und Nebenbahn-Loks – kurze Güterzüge, Werks- oder Bahnhofsverschub, gelegentlich auch Übergaben und kurze Personenzüge. Sie zeichneten sich durch hohes Anfahrmoment bei niedrigen Geschwindigkeiten und enge Kurvengängigkeit aus.
+
+Nummernlogik: Die DB führte diverse Vorgängerbauarten (v. a. preußische Kleinloks wie T-8/T-3-Abstammung) unter der Sammelbaureihe 89. Die Betriebsnummer 89 003 deutet auf ein sehr frühes Exemplar innerhalb dieser Nummerngruppe hin.
+
+Modell (wahrscheinlich): Maßstab H0 (1:87) – erkennbar an der Geometrie der Märklin-C-Gleise mit Schotterbett im Bild. Das konkrete Modell könnte von Märklin oder Fleischmann/Roco stammen; die Detaillierung (rote Speichenräder, angesetzte Leitungen, DB-Logo) passt zu gängigen H0-Umsetzungen der BR 89 in Epoche-III-Beschriftung.
+
+Typische Modell-Daten (je nach Hersteller): flinke Rangierfahrten, Mindestradius R1 der gängigen H0-Systeme, Antrieb auf den Kuppelachsen, teils mit Haftreifen; spätere Versionen oft mit LED-Licht und Digitalschnittstelle.
