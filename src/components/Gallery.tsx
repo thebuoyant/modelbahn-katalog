@@ -123,7 +123,7 @@ export default function Gallery() {
                   color="text.secondary"
                   style={{ marginTop: "4px", fontSize: "10px" }}
                 >
-                  {item.areaOfApplication ?? "—"}
+                  {item.areaOfApplication ?? ""}
                 </Typography>
               </CardContent>
             </Card>

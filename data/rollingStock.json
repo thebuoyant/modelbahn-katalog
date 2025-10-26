@@ -28,19 +28,21 @@
   },
   {
     "id": "demo-004",
-    "scale": "N",
-    "category": "Güterwagen",
-    "title": "Güterwagen #004",
-    "description": "Demo: Güterwagen, Spur N, Roco, Jahr 2019.",
-    "image43": "/images/demo/4x3/img004.png"
+    "scale": "H0",
+    "category": "Loks",
+    "title": "#004 Dampf-Lokomotive",
+    "description": "DB 89 003 (Epoche III)",
+    "image43": "/images/demo/4x3/img004.png",
+    "areaOfApplication": "Rangierdienst, kurze Güterzüge, Anschlussbahnen"
   },
   {
     "id": "demo-005",
     "scale": "H0",
     "category": "Loks",
-    "title": "Loks #005",
-    "description": "Demo: Loks, Spur H0, Märklin, Jahr 2015.",
-    "image43": "/images/demo/4x3/img005.png"
+    "title": "#005 Dampf-Lokomotive",
+    "description": "DB 39 046 (Epoche III)",
+    "image43": "/images/demo/4x3/img005.png",
+    "areaOfApplication": "Schnellzüge und schwere Personenzüge auf Mittelgebirgs- und Hauptstrecken"
   },
   {
     "id": "demo-006",
