@@ -82,19 +82,21 @@
   },
   {
     "id": "demo-010",
-    "scale": "N",
-    "category": "Loks",
-    "title": "Loks #010",
-    "description": "Demo: Loks, Spur N, Piko, Jahr 2005.",
-    "image43": "/images/demo/4x3/img010.png"
+    "scale": "H0",
+    "category": "Güterwagen",
+    "title": "#010 Flachwagen",
+    "description": "DB (Epoche III - IV)",
+    "image43": "/images/demo/4x3/img010.png",
+    "areaOfApplication": "Transport von schweren oder sperrigen Gütern: Fahrzeuge, Maschinen, Container, Militärgerät, Baumaterial"
   },
   {
     "id": "demo-011",
-    "scale": "N",
+    "scale": "H0",
     "category": "Güterwagen",
-    "title": "Güterwagen #011",
-    "description": "Demo: Güterwagen, Spur N, Fleischmann, Jahr 1977.",
-    "image43": "/images/demo/4x3/img011.png"
+    "title": "#011 Gedeckter Güterwagen",
+    "description": "DB (Epoche III - IV)",
+    "image43": "/images/demo/4x3/img011.png",
+    "areaOfApplication": "Stückgutverkehr, Transport empfindlicher Waren (Maschinen, Möbel, Post, Lebensmittel)"
   },
   {
     "id": "demo-012",
