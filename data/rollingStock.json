@@ -3,16 +3,16 @@
     "id": "demo-001",
     "scale": "H0",
     "category": "Loks",
-    "title": "Diesel-Lokomotive",
-    "description": "V100 / BR 210 / 216",
+    "title": "#001 Diesel-Lokomotive",
+    "description": "DB V100 144 (Epoche IV)",
     "image43": "/images/demo/4x3/img001.png"
   },
   {
     "id": "demo-002",
-    "scale": "N",
-    "category": "Güterwagen",
-    "title": "Güterwagen #002",
-    "description": "Demo: Güterwagen, Spur N, KATO, Jahr 1963.",
+    "scale": "H0",
+    "category": "Loks",
+    "title": "#002 Diesel-Lokomotive",
+    "description": "DB 212 042-6 (Epoche IV)",
     "image43": "/images/demo/4x3/img002.png"
   },
   {

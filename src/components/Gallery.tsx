@@ -210,6 +210,7 @@ export default function Gallery() {
             >
               <Chip label={active.scale} size="small" color="default" />
               <Chip label={active.category} size="small" color="default" />
+              <Chip label={active.epoch} size="small" color="default" />
             </Stack>
           )}
         </DialogContent>
