@@ -8,8 +8,8 @@ export interface RollingStock {
   title: string;
   description?: string;
   image43: string;
-  image169: string;
   year?: number;
   brand?: string;
   roadNumber?: string;
+  areaOfApplication?: string;
 }

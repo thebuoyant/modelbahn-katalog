@@ -58,7 +58,7 @@ export default function Gallery() {
     <Box className="content">
       <Box className="gallery">
         {items.map((item) => {
-          const src = aspect === "4:3" ? item.image43 : item.image169;
+          const src = item.image43;
           return (
             <Card key={item.id} variant="outlined" sx={{ overflow: "hidden" }}>
               {/* Card-Bild: Klick öffnet Lightbox */}
@@ -117,6 +117,13 @@ export default function Gallery() {
                 </div>
                 <Typography variant="body2" color="text.secondary">
                   {item.description ?? "—"}
+                </Typography>
+                <Typography
+                  variant="body2"
+                  color="text.secondary"
+                  style={{ marginTop: "4px", fontSize: "10px" }}
+                >
+                  {item.areaOfApplication ?? "—"}
                 </Typography>
               </CardContent>
             </Card>
@@ -190,7 +197,7 @@ export default function Gallery() {
             >
               {active && (
                 <Image
-                  src={aspect === "4:3" ? active.image43 : active.image169}
+                  src={active.image43}
                   alt={active.title}
                   fill
                   style={{ objectFit: "contain" }}
@@ -210,7 +217,6 @@ export default function Gallery() {
             >
               <Chip label={active.scale} size="small" color="default" />
               <Chip label={active.category} size="small" color="default" />
-              <Chip label={active.epoch} size="small" color="default" />
             </Stack>
           )}
         </DialogContent>
