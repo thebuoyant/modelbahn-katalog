@@ -101,18 +101,20 @@
   {
     "id": "demo-012",
     "scale": "H0",
-    "category": "Personenwagen",
-    "title": "Personenwagen #012",
-    "description": "Demo: Personenwagen, Spur H0, KATO, Jahr 2001.",
-    "image43": "/images/demo/4x3/img012.png"
+    "category": "Güterwagen",
+    "title": "#012 Gedeckter Güterwagen",
+    "description": "DB (Epoche III - IV)",
+    "image43": "/images/demo/4x3/img012.png",
+    "areaOfApplication": "Transport empfindlicher Güter: Maschinen, Lebensmittel, Möbel, Kistenwaren"
   },
   {
     "id": "demo-013",
     "scale": "H0",
-    "category": "Personenwagen",
-    "title": "Personenwagen #013",
-    "description": "Demo: Personenwagen, Spur H0, Märklin, Jahr 1996.",
-    "image43": "/images/demo/4x3/img013.png"
+    "category": "Güterwagen",
+    "title": "#013 Gedeckter Güterwagen",
+    "description": "DB (Epoche III - IV)",
+    "image43": "/images/demo/4x3/img013.png",
+    "areaOfApplication": "Transport empfindlicher Güter wie Maschinen, Möbel, Lebensmittel, Kistenwaren oder Stückgut"
   },
   {
     "id": "demo-014",
