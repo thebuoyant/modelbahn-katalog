@@ -118,34 +118,29 @@
   },
   {
     "id": "demo-014",
-    "scale": "N",
+    "scale": "H0",
     "category": "Güterwagen",
-    "title": "Güterwagen #014",
-    "description": "Demo: Güterwagen, Spur N, Piko, Jahr 2015.",
-    "image43": "/images/demo/4x3/img014.png"
+    "title": "#014 Gedeckter Güterwagen",
+    "description": "DB (Epoche III - IV)",
+    "image43": "/images/demo/4x3/img014.png",
+    "areaOfApplication": "Transport empfindlicher Früchte (v. a. Bananen, Zitrusfrüchte), Milchprodukte, Fleisch"
   },
   {
     "id": "demo-015",
-    "scale": "N",
-    "category": "Sonstiges",
-    "title": "Sonstiges #015",
-    "description": "Demo: Sonstiges, Spur N, Märklin, Jahr 1984.",
-    "image43": "/images/demo/4x3/img015.png"
+    "scale": "H0",
+    "category": "Güterwagen",
+    "title": "#015 Gedeckter Güterwagen",
+    "description": "DB (Epoche III - IV)",
+    "image43": "/images/demo/4x3/img015.png",
+    "areaOfApplication": "Transport empfindlicher Güter (z. B. Maschinen, Lebensmittel, Möbel, Kistenware)"
   },
   {
     "id": "demo-016",
-    "scale": "N",
-    "category": "Loks",
-    "title": "Loks #016",
-    "description": "Demo: Loks, Spur N, Piko, Jahr 1976.",
-    "image43": "/images/demo/4x3/img016.png"
-  },
-  {
-    "id": "demo-017",
-    "scale": "N",
-    "category": "Loks",
-    "title": "Loks #017",
-    "description": "Demo: Loks, Spur N, TRIX, Jahr 1962.",
-    "image43": "/images/demo/4x3/img017.png"
+    "scale": "H0",
+    "category": "Güterwagen",
+    "title": "#016 Gedeckter Güterwagen",
+    "description": "DB (Epoche III)",
+    "image43": "/images/demo/4x3/img016.png",
+    "areaOfApplication": "Stückgutverkehr, Transport empfindlicher Waren (Maschinen, Lebensmittel, Möbel etc.)"
   }
 ]

@@ -46,7 +46,7 @@ export default function Header() {
           variant="h6"
           sx={{ flexGrow: 1, position: "relative", left: "-8px" }}
         >
-          Meine MoBA-Sammlung
+          Meine Modellbahn
         </Typography>
         <Box>
           <Search>
