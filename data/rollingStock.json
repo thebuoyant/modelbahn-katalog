@@ -47,18 +47,20 @@
   {
     "id": "demo-006",
     "scale": "H0",
-    "category": "Sonstiges",
-    "title": "Sonstiges #006",
-    "description": "Demo: Sonstiges, Spur H0, KATO, Jahr 1975.",
-    "image43": "/images/demo/4x3/img006.png"
+    "category": "Güterwagen",
+    "title": "#006 Offener Güterwagen",
+    "description": "SBB (Epoche IV - V)",
+    "image43": "/images/demo/4x3/img006.png",
+    "areaOfApplication": "Transport von Schüttgütern (Kohle, Schrott, Holz, Erz etc.)"
   },
   {
     "id": "demo-007",
     "scale": "H0",
     "category": "Güterwagen",
-    "title": "Güterwagen #007",
-    "description": "Demo: Güterwagen, Spur H0, KATO, Jahr 1971.",
-    "image43": "/images/demo/4x3/img007.png"
+    "title": "#007 Offener Güterwagen",
+    "description": "DB (Epoche IV - V)",
+    "image43": "/images/demo/4x3/img007.png",
+    "areaOfApplication": "Transport von Schüttgütern (Kohle, Schrott, Holz, Erz etc.)"
   },
   {
     "id": "demo-008",
